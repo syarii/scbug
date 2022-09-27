@@ -1,0 +1,99 @@
+{
+  "users": {
+    "6281214281312@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285736574655@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "60136135801@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285759681568@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6282169378610@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    }
+  },
+  "chats": {
+    "6281214281312@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363041426385506@g.us": {
+      "mute": false
+    },
+    "120363042561799035@g.us": {
+      "mute": false
+    },
+    "6285736574655@s.whatsapp.net": {
+      "mute": false
+    },
+    "6285759681568@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363025828487931@g.us": {
+      "mute": false
+    },
+    "120363046029779729@g.us": {
+      "mute": false
+    },
+    "6281567678740@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363024326900769@g.us": {
+      "mute": false
+    },
+    "6281276318998@s.whatsapp.net": {
+      "mute": false
+    },
+    "6283839200413@s.whatsapp.net": {
+      "mute": false
+    },
+    "6281246114524@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363025336957938@g.us": {
+      "mute": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281214281312@s.whatsapp.net": {
+      "status": 0,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "available": false,
+      "composing": false,
+      "recording": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
